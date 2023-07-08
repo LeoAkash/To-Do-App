@@ -4,6 +4,4 @@ Simple to-do app for task management. Create and track your daily tasks effortle
 
 Take a look:
 
-https://leoakash.github.io/To-Do-App/
-
-https://to-do-app-pied-zeta.vercel.app/
+todo-app-m.vercel.app
